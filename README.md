@@ -1,8 +1,5 @@
-As faculdades podem desenvolver um sistema online para gerenciar a frequência dos alunos. 
-Os professores podem usar o sistema para monitorar o que os alunos estão fazendo em sala de aula.  
-A partir desse sistema, pode ser criado um QR code exclusivo para cada turma. 
-Este código QR pode ser fornecido pelo professor no início do curso. 
-À medida que cada aluno entra na sala de aula, eles podem escanear um código QR com o celular. 
-Isso exige que os professores forneçam instruções claras para a leitura do código. 
-Quando os alunos digitalizam o código QR, o sistema de atendimento é atualizado automaticamente. 
-Isso significa que o aluno é imediatamente matriculado na turma.
+As faculdades podem desenvolver um sistema online para gerenciar a frequência dos alunos. A partir desse sistema, pode ser criado um QR code exclusivo para cada aula. Durante a aula, em um momento específico, o professor pode projetar o QR Code na tela. Os alunos devem usar sua câmera para escanear o código e sistema de chamada irá registrar a presença do aluno automaticamente assim que o código for escaneado.
+Para evitar fraudes, o professor pode ajustar o tempo de exibição do QR Code para um período específico de tempo. Após esse período, o QR Code se tornará inválido e os alunos que não escanearam o código a tempo serão marcados como ausentes.
+
+Outra ideia seria antes do início da aula, os professores podem criar um conjunto de perguntas exclusivas, que só poderiam ser respondidas por alunos presentes na aula. Essas perguntas poderiam ser relacionadas ao conteúdo da aula anterior, à leitura obrigatória ou a algum tópico específico que foi discutido durante a aula.
+Em momentos aleatórios, o sistema apresentaria uma dessas perguntas na tela dos alunos. Os alunos teriam um tempo limitado para responder à pergunta usando o sistema de resposta online. Se a resposta estiver correta, o aluno seria considerado presente na aula. Caso contrário, a presença seria registrada como ausente, por isso é necessário o acompanhamento direto com o professor na sala para evitar que submeta uma resposta incorreta.
